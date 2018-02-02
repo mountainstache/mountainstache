@@ -1,6 +1,20 @@
 
 body {
 	font-family: 'Poiret One', cursive;
+	background-color: #e9ecef;
+	padding-top: 65px;
+}
+
+li { 
+	position: relative; 
+	left: -20px; 
+	padding-top: 4px;
+	color: rgb(89,89,89);
+
+}
+
+a:hover {
+    color: inherit;
 }
 
 .vertical-center {
@@ -9,3 +23,72 @@ body {
 	display: flex;
   	align-items: center;
 }
+
+.resume-header {
+	font-family:'Raleway', sans-serif ;
+	font-weight: 400;
+	font-size: 60px;
+	color: rgb(89,89,89);
+}
+
+.contact-info {
+	font-family: roboto;
+	font-weight: 900;
+	color: rgb(89,89,89);
+	text-align: left;
+}
+
+.top-padding {
+	padding-top: 30pt
+}
+
+.section-headers {
+	font-family: Raleway;
+	font-weight: 500;
+	font-size: 18pt;
+	color: rgb(32,121,199);
+	text-transform: uppercase;
+	padding-top: 20px;
+}
+
+.experience-headers {
+	font-family: roboto;
+	font-size: 16pt;
+	color: rgb(89,89,89);
+	padding-top: 8px;
+}
+
+.experience-dates {
+	font-family: roboto;
+	font-size: 14pt;
+	font-weight: 300;
+	color: rgb(89,89,89);
+}
+
+.resume-text {
+	font-family: roboto;
+	font-weight: 400;
+	font-size: 14pt;
+	color: rgb(89,89,89);
+	line-height: 110%;
+}
+
+.skills {
+	font-family: roboto;
+	font-weight: 900;
+	font-size: 13pt;
+	color: rgb(89,89,89);
+	padding-top: 10px;
+}
+
+.education {
+	font-family: roboto;
+	font-size: 13pt;
+	color: rgb(89,89,89);
+	padding-top: 10px;
+}
+
+.download-link {
+	color: rgb(89,89,89);
+}
+
