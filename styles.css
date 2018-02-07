@@ -14,7 +14,7 @@ li {
 }
 
 a:hover {
-    color: inherit;
+    color: rgb(89,89,89);
 }
 
 .vertical-center {
@@ -34,7 +34,6 @@ a:hover {
 .contact-info {
 	font-family: roboto;
 	font-weight: 900;
-	color: rgb(89,89,89);
 	text-align: left;
 }
 
