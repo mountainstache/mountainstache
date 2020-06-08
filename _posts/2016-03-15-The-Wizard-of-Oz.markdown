@@ -1,14 +1,18 @@
 ---
-layout:     post
-title:      "The Wizard of Oz"
-subtitle:   "L. Frank Baum"
+title: The Wizard of Oz
+date: 2016-03-15 00:00:00 Z
+categories:
+- cat03
+- cat04
+tags:
+- tag03
+- tag04
+layout: post
+subtitle: L. Frank Baum
 active: journal
 image:
-  feature: "pc003.jpg"
-date:       2016-03-15
-header-img: "img/postcover/pc003.jpg"
-tags: [tag03, tag04]
-categories: [cat03, cat04]
+  feature: pc003.jpg
+header-img: img/postcover/pc003.jpg
 comments: false
 ---
 

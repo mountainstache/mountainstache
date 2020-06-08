@@ -1,14 +1,18 @@
 ---
-layout:     post
-title:      "Alice in Wonderland"
-subtitle:   "Lewis Carroll"
+title: Alice in Wonderland
+date: 2016-03-25 00:00:00 Z
+categories:
+- cat01
+- cat02
+tags:
+- tag01
+- tag02
+layout: post
+subtitle: Lewis Carroll
 active: journal
 image:
-  feature: "pc001.jpg"
-date:       2016-03-25
-header-img: "img/postcover/pc001.jpg"
-tags: [tag01, tag02]
-categories: [cat01, cat02]
+  feature: pc001.jpg
+header-img: img/postcover/pc001.jpg
 comments: false
 ---
 

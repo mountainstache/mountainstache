@@ -1,14 +1,16 @@
 ---
-layout:     post
-title:      "At the Earth's Core"
-subtitle:   "Edgar Rice Burroughs"
+title: At the Earth's Core
+date: 2016-03-10 00:00:00 Z
+categories:
+- cat02
+tags:
+- tag01
+layout: post
+subtitle: Edgar Rice Burroughs
 active: journal
 image:
-  feature: "pc004.jpg"
-date:       2016-03-10 
-header-img: "img/postcover/pc004.jpg"
-tags: [tag01]
-categories: [cat02]
+  feature: pc004.jpg
+header-img: img/postcover/pc004.jpg
 comments: false
 ---
 

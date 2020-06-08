@@ -1,13 +1,13 @@
 ---
-layout: "post"
-title: "BLOG IMAGE PERFORMANCE IS NECESSARY"
-subtitle: "Image format and what Is the Ideal File Size for an Image?"
-active: "journal"
+title: BLOG IMAGE PERFORMANCE IS NECESSARY
+date: 2016-02-01 00:00:00 Z
+layout: post
+subtitle: Image format and what Is the Ideal File Size for an Image?
+active: journal
 image:
-  feature: "pc008.jpg"
-date: "2016-02-01"
-header-img: "img/postcover/pc008.jpg"
-comments: "true"
+  feature: pc008.jpg
+header-img: img/postcover/pc008.jpg
+comments: 'true'
 ---
 
 <p>I would like to thank <a href="http://designyourownblog.com/about-dyob/">Marianne</a>, owner of <a href="http://designyourownblog.com/">DESIGN YOUR OWN BLOG</a> who gave me permission to link to her post where she is talking about blog image performance.</p>

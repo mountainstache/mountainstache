@@ -1,14 +1,18 @@
 ---
-layout:     post
-title:      "The Scarlet Plague"
-subtitle:   "Jack London"
+title: The Scarlet Plague
+date: 2016-03-20 00:00:00 Z
+categories:
+- cat03
+- cat04
+tags:
+- tag03
+- tag04
+layout: post
+subtitle: Jack London
 active: journal
 image:
-  feature: "pc002.jpg"
-date:       2016-03-20
-header-img: "img/postcover/pc002.jpg"
-tags: [tag03, tag04]
-categories: [cat03, cat04]
+  feature: pc002.jpg
+header-img: img/postcover/pc002.jpg
 comments: false
 ---
 
