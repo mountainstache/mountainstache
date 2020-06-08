@@ -1,5 +1,5 @@
 ---
-title: PHOTORAMA
+title: Mountainstache
 timezone: UTC
 collections:
   posts:
@@ -8,17 +8,17 @@ collections:
   uploads:
     title: Uploads
     output: true
-email: ''
+email: 
 description: Photo Journal
 url: https://sunbliss.github.io
 baseurl: "/photorama"
-facebook_username: ''
-twitter_username: ''
-instagram_username: ''
-github_username: ''
-deviantart_username: ''
-flickr_username: ''
-discus_shortname: ''
+facebook_username: 
+twitter_username: 
+instagram_username: 
+github_username: 
+deviantart_username: 
+flickr_username: 
+discus_shortname: 
 share: true
 owner:
   name: photorama
@@ -28,7 +28,7 @@ owner:
 comments:
   provider: disqus
   disqus:
-    short_name: ''
+    short_name: 
 nav:
 - GALLERY: https://sunbliss.github.io/photorama/gallery/
 - JOURNAL: https://sunbliss.github.io/photorama/journal/
